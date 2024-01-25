@@ -2,31 +2,31 @@
 
 ## Overview
 
+
 Welcome to Apocalypse Survivors, a turn-based single-player survival game set in a post-apocalyptic world infested with zombies. In a turn each player character receives a specific number of action points per turn, which they can use to move, attack or cure zombies, or use special actions. Inspired by the intense atmosphere of The Last Of Us, this game challenges players to strategically navigate a grid-based map, cure zombies, and build a community to survive the apocalypse.
 
 **Start Scene**
-![Uploading Screenshot 2024-01-24 223207.png…]()
+<img width="942" alt="Screenshot 2024-01-24 223207" src="https://github.com/malakabdelbaki/TheLastOfUsGame-Apocalypse-Survivors/assets/119429621/19f27db4-1520-47e7-b466-44674e47cbdb">
+
+
 
 
 **Choose starting hero**
-![Uploading Screenshot 2024-01-24 223238.png…]()
+<img width="943" alt="Screenshot 2024-01-24 223238" src="https://github.com/malakabdelbaki/TheLastOfUsGame-Apocalypse-Survivors/assets/119429621/611276f2-0039-428d-b979-287e5476e32e">
 
-![Uploading Screenshot 2024-01-24 223404.png…]()
+<img width="940" alt="Screenshot 2024-01-24 223404" src="https://github.com/malakabdelbaki/TheLastOfUsGame-Apocalypse-Survivors/assets/119429621/92ac588b-ab67-447f-acdb-f0a301853a0d">
 
-![Uploading Screenshot 2024-01-24 223342.png…]()
+<img width="943" alt="Screenshot 2024-01-24 223342" src="https://github.com/malakabdelbaki/TheLastOfUsGame-Apocalypse-Survivors/assets/119429621/8f5a610b-2a8a-4369-b639-0bb4a9f56e8c">
 
 
-*Explorer Special Action**
-*![Uploading Screenshot 2024-01-24 223418.png…]()
-
+**Explorer Special Action**
+<img width="942" alt="Screenshot 2024-01-24 223418" src="https://github.com/malakabdelbaki/TheLastOfUsGame-Apocalypse-Survivors/assets/119429621/7ce36da4-a496-40a6-a417-158f348ba236">
 
 **Win Scene**
-
-![Uploading Screenshot 2024-01-24 223547.png…]()
+<img width="943" alt="Screenshot 2024-01-24 223547" src="https://github.com/malakabdelbaki/TheLastOfUsGame-Apocalypse-Survivors/assets/119429621/93a5c9fd-4fe2-4c61-9115-5e98eff849d2">
 
 **Loss Scene**
-
-![Uploading Screenshot 2024-01-24 223651.png…]()
+<img width="942" alt="Screenshot 2024-01-24 223651" src="https://github.com/malakabdelbaki/TheLastOfUsGame-Apocalypse-Survivors/assets/119429621/2941239b-5fd4-465b-a08c-6d4e022c33ea">
 
 ## Project Structure
 
