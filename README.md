@@ -32,12 +32,10 @@ Welcome to Apocalypse Survivors, a turn-based single-player survival game set in
 
 ### 1. `engine`
 
-- **Game Class**: Represents the game as a 2D grid, tracking heroes, zombies, and collectibles.
+- **Game Class**: Represents the game as a 2D grid, tracking heroes, zombies, and collectibles and managing gameflow.
 - **Heroes.csv**: File containing available heroes and their attributes.
-- **Game Setup**: Initializes the game with 10 collectibles (5 Vaccines, 5 Supplies), 5 traps, 10 zombies, and the player's hero at the bottom left corner.
 - **Turn Mechanics**: Players use action points to move, attack, cure zombies, or perform special actions.
 - **Visibility Update**: Map visibility is updated based on heroes' locations.
-- **End Turn**: Zombies attack, hero actions reset, map visibility updates, and a new zombie spawns.
 
 ### 2. `exceptions`
 
